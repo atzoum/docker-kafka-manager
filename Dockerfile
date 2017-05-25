@@ -1,7 +1,5 @@
 FROM hseeberger/scala-sbt
 
-MAINTAINER Clement Laforet <sheepkiller@cultdeadsheep.org>
-
 ENV ZK_HOSTS=localhost:2181 \
      KM_VERSION=1.3.3.6
 
